@@ -2,8 +2,9 @@
 
 int main(){
 
-    printf("Hello, world!");
-
-
+    int hi;
+    printf("Hello, world!\n");
+    scanf("%i", &hi);
+    
     return 0;
 }
